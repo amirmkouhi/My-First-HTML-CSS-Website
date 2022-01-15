@@ -5,6 +5,7 @@
     border-radius: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 5px;
+    user-select: none;
 }
 body{
     background-color: #f2f2f2;
